@@ -1,0 +1,225 @@
+[
+    {
+     
+      "name": "Samsung Galaxy S21",
+      "image": "url/to/samsung_galaxy_s21.jpg",
+      "description": "Flagship smartphone with cutting-edge features.",
+      "price": 799.99,
+      "rating": 4.8,
+      "available_product_number": 50,
+      "category": "Smartphone",
+      "brand_name": "Samsung"
+    },
+    {
+      
+      "name": "Apple MacBook Pro",
+      "image": "url/to/macbook_pro.jpg",
+      "description": "Powerful laptop with Retina display for professionals.",
+      "price": 1999.99,
+      "rating": 4.9,
+      "available_product_number": 30,
+      "category": "Laptop",
+      "brand_name": "Apple"
+    },
+    {
+      
+      "name": "Realme Buds Air",
+      "image": "url/to/realme_buds_air.jpg",
+      "description": "True wireless earbuds with low-latency mode.",
+      "price": 79.99,
+      "rating": 4.5,
+      "available_product_number": 100,
+      "category": "Audio",
+      "brand_name": "Realme"
+    },
+    {
+      
+      "name": "Oppo 4K Smart TV",
+      "image": "url/to/oppo_4k_smart_tv.jpg",
+      "description": "Feature-packed 4K Ultra HD Smart TV.",
+      "price": 1299.99,
+      "rating": 4.7,
+      "available_product_number": 20,
+      "category": "TV",
+      "brand_name": "Oppo"
+    },
+    {
+    
+      "name": "Samsung Gaming Monitor",
+      "image": "url/to/samsung_gaming_monitor.jpg",
+      "description": "Curved gaming monitor for immersive gaming.",
+      "price": 599.99,
+      "rating": 4.6,
+      "available_product_number": 15,
+      "category": "Monitor",
+      "brand_name": "Samsung"
+    },
+    {
+        
+        "name": "Realme X Pro",
+        "image": "url/to/realme_x_pro.jpg",
+        "description": "Powerful mid-range smartphone with a stunning display.",
+        "price": 349.99,
+        "rating": 4.5,
+        "available_product_number": 40,
+        "category": "Smartphone",
+        "brand_name": "Realme"
+      },
+      {
+        
+        "name": "Apple iPad Air",
+        "image": "url/to/ipad_air.jpg",
+        "description": "Slim and powerful tablet for work and entertainment.",
+        "price": 799.99,
+        "rating": 4.7,
+        "available_product_number": 25,
+        "category": "Laptop",
+        "brand_name": "Apple"
+      },
+      {
+        
+        "name": "Samsung 27-Inch QLED Monitor",
+        "image": "url/to/samsung_qled_monitor.jpg",
+        "description": "QLED monitor with vibrant colors and crisp resolution.",
+        "price": 499.99,
+        "rating": 4.8,
+        "available_product_number": 18,
+        "category": "Monitor",
+        "brand_name": "Samsung"
+      },
+      {
+        
+        "name": "Oppo In-Ear Gaming Headset",
+        "image": "url/to/oppo_gaming_headset.jpg",
+        "description": "Immersive gaming audio experience with noise cancellation.",
+        "price": 89.99,
+        "rating": 4.6,
+        "available_product_number": 30,
+        "category": "Audio",
+        "brand_name": "Oppo"
+      },
+      {
+       
+        "name": "Samsung 55-Inch 4K QLED TV",
+        "image": "url/to/samsung_4k_qled_tv.jpg",
+        "description": "Stunning 4K QLED TV for a cinematic viewing experience.",
+        "price": 1699.99,
+        "rating": 4.9,
+        "available_product_number": 15,
+        "category": "TV",
+        "brand_name": "Samsung"
+      },
+      {
+      
+        "name": "RealmeBook Pro",
+        "image": "url/to/realmebook_pro.jpg",
+        "description": "Slim and powerful laptop for productivity on the go.",
+        "price": 899.99,
+        "rating": 4.7,
+        "available_product_number": 20,
+        "category": "Laptop",
+        "brand_name": "Realme"
+      },
+      {
+        
+        "name": "Apple AirPods Pro",
+        "image": "url/to/airpods_pro.jpg",
+        "description": "Premium noise-canceling earbuds for an immersive audio experience.",
+        "price": 249.99,
+        "rating": 4.8,
+        "available_product_number": 50,
+        "category": "Audio",
+        "brand_name": "Apple"
+      },
+      {
+        
+        "name": "Oppo 34-Inch Curved Gaming Monitor",
+        "image": "url/to/oppo_curved_gaming_monitor.jpg",
+        "description": "Curved gaming monitor with high refresh rate for smooth gameplay.",
+        "price": 599.99,
+        "rating": 4.6,
+        "available_product_number": 15,
+        "category": "Monitor",
+        "brand_name": "Oppo"
+      },
+      {
+        
+        "name": "Samsung Soundbar Q900T",
+        "image": "url/to/samsung_soundbar.jpg",
+        "description": "Premium soundbar with Dolby Atmos for cinematic audio at home.",
+        "price": 799.99,
+        "rating": 4.5,
+        "available_product_number": 25,
+        "category": "Audio",
+        "brand_name": "Samsung"
+      },
+      {
+       
+        "name": "Realme 32-Inch Smart TV",
+        "image": "url/to/realme_smart_tv.jpg",
+        "description": "Affordable smart TV with built-in streaming apps.",
+        "price": 399.99,
+        "rating": 4.3,
+        "available_product_number": 30,
+        "category": "TV",
+        "brand_name": "Realme"
+      },
+      {
+       
+        "name": "Oppo Enco Free Wireless Earbuds",
+        "image": "url/to/oppo_wireless_earbuds.jpg",
+        "description": "Wireless earbuds with touch controls and clear audio.",
+        "price": 129.99,
+        "rating": 4.4,
+        "available_product_number": 40,
+        "category": "Audio",
+        "brand_name": "Oppo"
+      },
+      {
+        
+        "name": "Apple iMac 27-Inch",
+        "image": "url/to/imac_27inch.jpg",
+        "description": "All-in-one desktop computer with a vibrant Retina display.",
+        "price": 1799.99,
+        "rating": 4.9,
+        "available_product_number": 15,
+        "category": "Laptop",
+        "brand_name": "Apple"
+      },
+      {
+        
+        "name": "Samsung Galaxy Tab S7",
+        "image": "url/to/galaxy_tab_s7.jpg",
+        "description": "Versatile tablet with S Pen for productivity and entertainment.",
+        "price": 649.99,
+        "rating": 4.6,
+        "available_product_number": 25,
+        "category": "Laptop",
+        "brand_name": "Samsung"
+      },
+      {
+        
+        "name": "Oppo Reno5 Pro",
+        "image": "url/to/oppo_reno5_pro.jpg",
+        "description": "Sleek and powerful smartphone with AI-enhanced camera features.",
+        "price": 549.99,
+        "rating": 4.7,
+        "available_product_number": 35,
+        "category": "Smartphone",
+        "brand_name": "Oppo"
+      },
+      {
+     
+        "name": "Samsung 49-Inch QLED Gaming Monitor",
+        "image": "url/to/samsung_qled_gaming_monitor.jpg",
+        "description": "Ultra-wide gaming monitor with Quantum Dot technology.",
+        "price": 899.99,
+        "rating": 4.8,
+        "available_product_number": 18,
+        "category": "Monitor",
+        "brand_name": "Samsung"
+      }
+   
+  ]
+  
+  

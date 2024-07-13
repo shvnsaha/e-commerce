@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "productName": "Laptop",
+      "productPicture": "https://i.ibb.co/S3RzwZk/pexels-life-of-pix-7974.jpg",
+      "price": 999.99
+    },
+    {
+      "id": 2,
+      "productName": "Smartphone",
+      "productPicture": "https://i.ibb.co/7QPdyJK/pexels-noah-erickson-404280.jpg",
+      "price": 499.99
+    },
+    {
+      "id": 3,
+      "productName": "Headphones",
+      "productPicture": "https://i.ibb.co/7QPdyJK/pexels-noah-erickson-404280.jpg",
+      "price": 79.99
+    },
+    {
+      "id": 4,
+      "productName": "Coffee Maker",
+      "productPicture": "https://i.ibb.co/S3RzwZk/pexels-life-of-pix-7974.jpg",
+      "price": 59.99
+    },
+    {
+        "id": 1,
+        "productName": "Laptop",
+        "productPicture": "https://i.ibb.co/S3RzwZk/pexels-life-of-pix-7974.jpg",
+        "price": 999.99
+      },
+      {
+        "id": 2,
+        "productName": "Smartphone",
+        "productPicture": "https://i.ibb.co/7QPdyJK/pexels-noah-erickson-404280.jpg",
+        "price": 499.99
+      },
+      {
+        "id": 3,
+        "productName": "Headphones",
+        "productPicture": "https://i.ibb.co/7QPdyJK/pexels-noah-erickson-404280.jpg",
+        "price": 79.99
+      },
+      {
+        "id": 4,
+        "productName": "Coffee Maker",
+        "productPicture": "https://i.ibb.co/S3RzwZk/pexels-life-of-pix-7974.jpg",
+        "price": 59.99
+      }
+  ]
